@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 当前脚本版本
-SCRIPT_VERSION="1.0.0"
+SCRIPT_VERSION="1.0.1"
 # 远程脚本地址
 REMOTE_SCRIPT_URL="https://raw.githubusercontent.com/caycy01/adg/refs/heads/main/adg.sh"  # 替换为实际远程脚本地址
 # 当前脚本路径
