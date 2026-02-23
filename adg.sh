@@ -3,15 +3,15 @@
 # 当前脚本版本
 SCRIPT_VERSION="1.0.0"
 # 远程脚本地址
-REMOTE_SCRIPT_URL="https://raw.githubusercontent.com/Jimmyzxk/adg/refs/heads/main/adg.sh"  # 替换为实际远程脚本地址
+REMOTE_SCRIPT_URL="https://raw.githubusercontent.com/caycy01/adg/refs/heads/main/adg.sh"  # 替换为实际远程脚本地址
 # 当前脚本路径
 CURRENT_SCRIPT_PATH="$0"
 # 快捷命令路径
 SHORTCUT_PATH="/usr/local/bin/adg"
 
 # 文件更新配置
-FILE_URL="https://raw.githubusercontent.com/Leev1s/FAK-DNS/master/converted/FAK-DNS.txt"
-TARGET_DIR="/opt/AdGuardHome"
+FILE_URL="https://raw.githubusercontent.com/caycy01/FAK-DNS/master/converted/FAK-DNS.txt"
+TARGET_DIR="/opt/AdGuard"
 TARGET_FILE="$TARGET_DIR/FAK-DNS.txt"
 
 # AdGuard Home 服务名（请根据实际情况调整）
